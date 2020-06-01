@@ -22,7 +22,7 @@ body{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 .header{
-    background: url("../image/background.jpg")no-repeat;
+    background: url("image/background.jpg")no-repeat;
     background-size: cover;
     grid-area: header;
     background-color: #fff;
@@ -30,7 +30,7 @@ body{
     justify-content:flex-end;
 }
 .div_pic{
-    background: url("../image/Foto.jpeg");
+    background: url("image/Foto.jpeg");
     background-size: 130px 130px;
     border:2px solid #212F3C ;
     width: 130px;
