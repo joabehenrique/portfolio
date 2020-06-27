@@ -42,12 +42,12 @@ body{
 .left{
    border-top: 3px solid #34495E;
    grid-area: left;
-   background-color:#EAECEE ;
+   background-color:#1b2731 ;
 }
 .right{
     border-top: 3px solid #34495E;
     grid-area: right;
-    background-color: #EAECEE  ;
+    background-color: #1b2731 ;
 }
 .main{
     grid-area: main;
