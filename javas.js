@@ -14,7 +14,7 @@ $(document).ready(function(){
 
 $(document).ready(function(){
     $(".secao_curriculo").click(function() {
-        window.location.href = '../image/Currículo.pdf' ;
+        window.location.href = 'image/Currículo.pdf' ;
     });
 });
 
