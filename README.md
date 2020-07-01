@@ -1,10 +1,12 @@
 # Portfólio
 
-![Github image](https://github.com/henriquecido/Portfolio/blob/master/image/portfolioreadme.PNG)
+![Github image](https://github.com/henriquecido/Portfolio/blob/master/image/portfolioreadmee.PNG)
 
 ## Sobre
 
 Meu Portfólio onde conto um pouco sobre mim, alguns projetos de minha autoria e mais algumas coisas.
+
+Está responsivo para Web e Mobile.
 
 Ele pode ser facilmente acessado através do link abaixo.
 
