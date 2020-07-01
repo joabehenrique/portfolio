@@ -1,6 +1,6 @@
 # Portfólio
 
-![Github image](https://github.com/henriquecido/Portfolio/blob/master/image/portfolioreadme.PNG)
+![Github image](https://github.com/henriquecido/Portfolio/blob/master/image/portfolioreadmee.PNG)
 
 ## Sobre
 
