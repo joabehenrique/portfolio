@@ -20,7 +20,8 @@ $(document).ready(function(){
 
 $(document).ready(function(){
     $(".github").click(function() {
-        window.location.href = 'https://github.com/henriquecido/LoginCadastroPHPeMySQL';
+        var diretorio = $(this).attr('data-arg');
+        window.location.href = 'https://github.com/henriquecido/'+diretorio;
     });
 });
 
