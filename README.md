@@ -6,6 +6,8 @@
 
 Meu Portfólio onde conto um pouco sobre mim, alguns projetos de minha autoria e mais algumas coisas.
 
+Está responsivo para Web e Mobile.
+
 Ele pode ser facilmente acessado através do link abaixo.
 
 https://henriquecido.github.io/Portfolio/
