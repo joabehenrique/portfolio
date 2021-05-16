@@ -1,15 +1,11 @@
 # Portfólio
 
-![Github image](https://github.com/henriquecido/Portfolio/blob/master/image/portfolioreadmee.PNG)
+## About
 
-## Sobre
+My Portfolio where I tell a little about myself, some projects of my own and a few more things.
 
-Meu Portfólio onde conto um pouco sobre mim, alguns projetos de minha autoria e mais algumas coisas.
+It is responsive for Web and Mobile.
 
-Está responsivo para Web e Mobile.
-
-Ele pode ser facilmente acessado através do link abaixo.
+It can be easily accessed via the link below.
 
 https://henriquecido.github.io/Portfolio/
-
-Atenciosamente.
